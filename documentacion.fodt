@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2019-09-27T12:05:30.095652289</meta:creation-date><dc:date>2019-09-27T12:49:56.199299084</dc:date><meta:editing-duration>PT3M55S</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="39" meta:word-count="84" meta:character-count="2451" meta:non-whitespace-character-count="2406"/><meta:generator>LibreOffice/6.2.7.1$Linux_X86_64 LibreOffice_project/20$Build-1</meta:generator></office:meta>
+ <office:meta><meta:creation-date>2019-09-27T12:05:30.095652289</meta:creation-date><dc:date>2019-09-27T14:09:06.734199066</dc:date><meta:editing-duration>PT1H12M38S</meta:editing-duration><meta:editing-cycles>32</meta:editing-cycles><meta:generator>LibreOffice/6.2.7.1$Linux_X86_64 LibreOffice_project/20$Build-1</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="7" meta:paragraph-count="128" meta:word-count="312" meta:character-count="6794" meta:non-whitespace-character-count="6609"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">32808</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">168063</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">49347</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">24529</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">45960</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21142</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">16796</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">53917</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">16429</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">174098</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">32808</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">49345</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">57335</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">168063</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">45958</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">189204</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -72,7 +72,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">902169</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">914477</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
@@ -131,6 +131,7 @@
   </office:script>
  </office:scripts>
  <office:font-face-decls>
+  <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-charset="x-symbol"/>
   <style:font-face style:name="Noto Sans Devanagari1" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="swiss"/>
   <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
@@ -178,8 +179,15 @@
    <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="130%" fo:font-weight="bold" style:font-size-asian="130%" style:font-weight-asian="bold" style:font-size-complex="130%" style:font-weight-complex="bold"/>
   </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="28pt" fo:font-weight="bold" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
+  </style:style>
   <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
    <style:text-properties fo:color="#000080" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
   </style:style>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" style:num-format="">
@@ -241,27 +249,80 @@
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="0009cffd" officeooo:paragraph-rsid="0009cffd"/>
   </style:style>
-  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0009cffd" officeooo:paragraph-rsid="0009cffd"/>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Title">
+   <style:text-properties officeooo:rsid="000df42d" officeooo:paragraph-rsid="000df42d"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000ae0d5" officeooo:paragraph-rsid="000ae0d5"/>
+   <style:text-properties officeooo:rsid="0009cffd" officeooo:paragraph-rsid="0009cffd"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000bc42f" officeooo:paragraph-rsid="000bc42f"/>
+   <style:text-properties officeooo:rsid="000ae0d5" officeooo:paragraph-rsid="000ae0d5"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000cc240" officeooo:paragraph-rsid="000cc240"/>
+   <style:text-properties officeooo:rsid="000bc42f" officeooo:paragraph-rsid="000bc42f"/>
   </style:style>
   <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="000cc240" officeooo:paragraph-rsid="000cc240"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="000dc419" officeooo:paragraph-rsid="000dc419"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="000dc419"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="000df42d" officeooo:paragraph-rsid="000df42d"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="000df42d"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:paragraph-rsid="0009cffd"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="000dc419" officeooo:paragraph-rsid="000dc419"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="000df42d" officeooo:paragraph-rsid="000df42d"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="000ae0d5"/>
   </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="000df42d"/>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.771cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="2" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.27cm" text:min-label-width="0.635cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.905cm" text:min-label-width="0.635cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.54cm" text:min-label-width="0.635cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.175cm" text:min-label-width="0.635cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.81cm" text:min-label-width="0.635cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.445cm" text:min-label-width="0.635cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="5.715cm" text:min-label-width="0.635cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="6.35cm" text:min-label-width="0.635cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm">
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -275,6 +336,7 @@
  </office:master-styles>
  <office:body>
   <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <text:sequence-decls>
     <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
@@ -288,41 +350,134 @@
    <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration70.incompatible.php#migration70.incompatible.foreach.by-ref" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration70.incompatible.php#migration70.incompatible.foreach.by-ref</text:a> (complementa al superior)</text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">ereg</text:h>
    <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration70.incompatible.php#migration70.incompatible.removed-functions.ereg" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration70.incompatible.php#migration70.incompatible.removed-functions.ereg</text:a></text:p>
-   <text:h text:style-name="P7" text:outline-level="1">sql</text:h>
+   <text:h text:style-name="P11" text:outline-level="1">sql</text:h>
    <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration70.incompatible.php#migration70.incompatible.removed-functions.mysql" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration70.incompatible.php#migration70.incompatible.removed-functions.mysql</text:a></text:p>
    <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration70.incompatible.php#migration70.incompatible.removed-functions.mssql" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration70.incompatible.php#migration70.incompatible.removed-functions.mssql</text:a></text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">reserva de nombres</text:h>
    <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration70.incompatible.php#migration70.incompatible.other.classes" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration70.incompatible.php#migration70.incompatible.other.classes</text:a></text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">declaraciones de tipo</text:h>
-   <text:p text:style-name="P2"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration70.new-features.php#migration70.new-features.scalar-type-declarations" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration70.new-features.php#migration70.new-features.scalar-type-declarations</text:a></text:p>
-   <text:p text:style-name="P2"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration70.new-features.php#migration70.new-features.return-type-declarations" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration70.new-features.php#migration70.new-features.return-type-declarations</text:a></text:p>
-   <text:p text:style-name="P2"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration72.new-features.php#migration72.new-features.object-type" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration72.new-features.php#migration72.new-features.object-type</text:a></text:p>
-   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration70.new-features.php#migration70.new-features.scalar-type-declarations" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration70.new-features.php#migration70.new-features.scalar-type-declarations</text:a></text:p>
+   <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration70.new-features.php#migration70.new-features.return-type-declarations" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration70.new-features.php#migration70.new-features.return-type-declarations</text:a></text:p>
+   <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration72.new-features.php#migration72.new-features.object-type" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration72.new-features.php#migration72.new-features.object-type</text:a></text:p>
+   <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration71.new-features.php#migration71.new-features.nullable-types" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration71.new-features.php#migration71.new-features.nullable-types</text:a></text:p>
+   <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration71.new-features.php#migration71.new-features.void-functions" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration71.new-features.php#migration71.new-features.void-functions</text:a></text:p>
+   <text:p text:style-name="P3"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">operador de coalescencia <text:span text:style-name="T1">nula</text:span></text:h>
-   <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.null-coalesce-op" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.null-coalesce-op</text:a></text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1">arrays constantes</text:h>
-   <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.define-array" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.define-array</text:a></text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:soft-page-break/>clases anónimas</text:h>
-   <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.anonymous-classes" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.anonymous-classes</text:a></text:p>
+   <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.null-coalesce-op" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.null-coalesce-op</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:soft-page-break/>arrays constantes</text:h>
+   <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.define-array" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.define-array</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">clases anónimas</text:h>
+   <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.anonymous-classes" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.anonymous-classes</text:a></text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">soporte codigos unicode</text:h>
-   <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.unicode-codepoint-escape-syntax" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.unicode-codepoint-escape-syntax</text:a></text:p>
+   <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.unicode-codepoint-escape-syntax" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.unicode-codepoint-escape-syntax</text:a></text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">filtros para unserialize</text:h>
-   <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.filtered-unserialize" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.filtered-unserialize</text:a></text:p>
+   <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.filtered-unserialize" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.filtered-unserialize</text:a></text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">asserts de zero coste</text:h>
-   <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.expectations" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.expectations</text:a></text:p>
+   <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.expectations" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.expectations</text:a></text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">constructores nombrados</text:h>
-   <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration70.deprecated.php#migration70.deprecated.php4-constructors" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration70.deprecated.php#migration70.deprecated.php4-constructors</text:a></text:p>
+   <text:p text:style-name="P5"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration70.deprecated.php#migration70.deprecated.php4-constructors" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration70.deprecated.php#migration70.deprecated.php4-constructors</text:a></text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">llamada a estaticos de forma no estatica</text:h>
-   <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration70.deprecated.php#migration70.deprecated.static-calls" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration70.deprecated.php#migration70.deprecated.static-calls</text:a></text:p>
+   <text:p text:style-name="P5"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration70.deprecated.php#migration70.deprecated.static-calls" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration70.deprecated.php#migration70.deprecated.static-calls</text:a></text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">jerarquía de excepciones</text:h>
-   <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration70.classes.php#migration70.classes.exception-hierarchy" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration70.classes.php#migration70.classes.exception-hierarchy</text:a></text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1">constantes case sensitive</text:h>
-   <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration73.deprecated.php#migration73.deprecated.core.ci-constant" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration73.deprecated.php#migration73.deprecated.core.ci-constant</text:a></text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1">cryptografía</text:h>
-   <text:p text:style-name="P5"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration72.new-features.php#migration72.new-features.sodium" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration72.new-features.php#migration72.new-features.sodium</text:a></text:p>
+   <text:p text:style-name="P5"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration70.classes.php#migration70.classes.exception-hierarchy" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration70.classes.php#migration70.classes.exception-hierarchy</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">constantes</text:h>
+   <text:p text:style-name="P5"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration73.deprecated.php#migration73.deprecated.core.ci-constant" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration73.deprecated.php#migration73.deprecated.core.ci-constant</text:a></text:p>
+   <text:p text:style-name="P5"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration71.new-features.php#migration71.new-features.class-constant-visibility" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration71.new-features.php#migration71.new-features.class-constant-visibility</text:a></text:p>
+   <text:p text:style-name="P5"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration56.new-features.php#migration56.new-features.const-scalar-exprs" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration56.new-features.php#migration56.new-features.const-scalar-exprs</text:a></text:p>
+   <text:p text:style-name="P5"><text:soft-page-break/></text:p>
    <text:p text:style-name="P5"/>
-   <text:p text:style-name="P6">IMPORTANTE</text:p>
-   <text:p text:style-name="P6">CONTRAVARIANZA EN TIPOS DE PARAMETROS: SE PUEDE AMPLIAR PERO NO LIMITAR MAS</text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">cryptografía</text:h>
+   <text:p text:style-name="P6"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration72.new-features.php#migration72.new-features.sodium" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration72.new-features.php#migration72.new-features.sodium</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">string literals</text:h>
+   <text:p text:style-name="P7"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration72.deprecated.php#migration72.deprecated.unquoted-strings" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration72.deprecated.php#migration72.deprecated.unquoted-strings</text:a></text:p>
+   <text:h text:style-name="P12" text:outline-level="1">create_function eliminada</text:h>
+   <text:p text:style-name="P8"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration72.deprecated.php#migration72.deprecated.create_function-function" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration72.deprecated.php#migration72.deprecated.create_function-function</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">eliminacion de mcrypt</text:h>
+   <text:p text:style-name="P7"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration72.other-changes.php#migration72.other-changes.mcrypt" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration72.other-changes.php#migration72.other-changes.mcrypt</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">multicaptura de excepciones</text:h>
+   <text:p text:style-name="P7"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration71.new-features.php#migration71.new-features.mulit-catch-exception-handling" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration71.new-features.php#migration71.new-features.mulit-catch-exception-handling</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">conversion de errores fatales a excepciones</text:h>
+   <text:p text:style-name="P7"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration71.incompatible.php#migration71.incompatible.fatal-errors-to-error-exceptions" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration71.incompatible.php#migration71.incompatible.fatal-errors-to-error-exceptions</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">funciones variadicas</text:h>
+   <text:p text:style-name="P7"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration56.new-features.php#migration56.new-features.variadics" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration56.new-features.php#migration56.new-features.variadics</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">desempaquetado de parametros (complemento a variadicas)</text:h>
+   <text:p text:style-name="P7"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration56.new-features.php#migration56.new-features.splat" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration56.new-features.php#migration56.new-features.splat</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">exponencial</text:h>
+   <text:p text:style-name="P7"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration56.new-features.php#migration56.new-features.exponentiation" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration56.new-features.php#migration56.new-features.exponentiation</text:a></text:p>
+   <text:p text:style-name="P7"><text:soft-page-break/></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">generadores</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration55.new-features.php#migration55.new-features.generators" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration55.new-features.php#migration55.new-features.generators</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">finally</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration55.new-features.php#migration55.new-features.finally" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration55.new-features.php#migration55.new-features.finally</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">acceso a string y arrays</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration55.new-features.php#migration55.new-features.const-dereferencing" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration55.new-features.php#migration55.new-features.const-dereferencing</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">addicción de opcache</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration55.new-features.php#migration55.new-features.opcache" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration55.new-features.php#migration55.new-features.opcache</text:a></text:p>
+   <text:p text:style-name="P2">PHP5.4 e inferiores</text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">traits</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/language.oop5.traits.php" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/language.oop5.traits.php</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">servidor web incluido</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/features.commandline.webserver.php" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/features.commandline.webserver.php</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">goto</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/control-structures.goto.php" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/control-structures.goto.php</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">espacios de nombres</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/language.namespaces.php" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/language.namespaces.php</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">static late bindings</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/language.oop5.late-static-bindings.php" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/language.oop5.late-static-bindings.php</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:soft-page-break/>lambdas/funciones anonimas</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/functions.anonymous.php" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/functions.anonymous.php</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">const fuera de clases</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/language.constants.syntax.php" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/language.constants.syntax.php</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">anidacion de excepciones</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration53.new-features.php" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration53.new-features.php</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">register_globals eliminado</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration53.deprecated.php" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration53.deprecated.php</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">manejo de referencias</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration51.references.php#migration51.references-overview" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration51.references.php#migration51.references-overview</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">reescritura de metodos en herencia</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration51.oop.php#migration51.oop-inheritance" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration51.oop.php#migration51.oop-inheritance</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">modelo de objetos moderno</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://www.php.net/manual/es/migration5.oop.php" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.php.net/manual/es/migration5.oop.php</text:a></text:p>
+   <text:p text:style-name="P9"/>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">cambios sin enlace</text:h>
+   <text:p text:style-name="P10"><text:span text:style-name="T2">5.3: </text:span>Ha cambiado el comportamiento de funciones con parámetros por referencia llamados por valor. Donde antes se aceptaban parámetros por valor, ahora se emite un error fatal. Todo código anterior que proporcionara constantes o valores literales a funciones que esperan variables por referencia, necesitarán modificarse para asignar el valor a una variable antes de llamar a la función. </text:p>
+   <text:p text:style-name="P7">IMPORTANTE</text:p>
+   <text:p text:style-name="P7">CONTRAVARIANZA EN TIPOS DE PARAMETROS: SE PUEDE AMPLIAR PERO NO LIMITAR MAS</text:p>
+   <text:p text:style-name="P2"><text:soft-page-break/>FUTURO?</text:p>
+   <text:h text:style-name="P13" text:outline-level="1">inicializador de objetos</text:h>
+   <text:p text:style-name="P10"><text:a xlink:type="simple" xlink:href="https://wiki.php.net/rfc/object-initializer" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.php.net/rfc/object-initializer</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">cambios en el proceso de discusion</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://wiki.php.net/rfc/prevent_disruptions_of_conversations" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.php.net/rfc/prevent_disruptions_of_conversations</text:a> (zeev la has liado pollito)</text:p>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://wiki.php.net/rfc/abolish-short-votes" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.php.net/rfc/abolish-short-votes</text:a></text:p>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://wiki.php.net/rfc/abolish-narrow-margins" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.php.net/rfc/abolish-narrow-margins</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">union de tipos</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://github.com/nikic/php-rfcs/blob/union-types/rfcs/0000-union-types-v2.md" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://github.com/nikic/php-rfcs/blob/union-types/rfcs/0000-union-types-v2.md</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">operadores estrictos</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://wiki.php.net/rfc/strict_operators" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.php.net/rfc/strict_operators</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">espacios de nombres con scopes</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://wiki.php.net/rfc/namespace_scoped_declares" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.php.net/rfc/namespace_scoped_declares</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">soporte enums</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://wiki.php.net/rfc/enum" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.php.net/rfc/enum</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">declarar variables antes de su uso</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://wiki.php.net/rfc/declare_vars" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.php.net/rfc/declare_vars</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">anotaciones</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://wiki.php.net/rfc/annotations_v2" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.php.net/rfc/annotations_v2</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">nombres correctos</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://wiki.php.net/rfc/consistent-names" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.php.net/rfc/consistent-names</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:soft-page-break/>parametros con nombre</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://wiki.php.net/rfc/simplified_named_params" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.php.net/rfc/simplified_named_params</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">reclasificacion de errores</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://wiki.php.net/rfc/engine_warnings" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.php.net/rfc/engine_warnings</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">JIT</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://wiki.php.net/rfc/jit" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.php.net/rfc/jit</text:a></text:p>
+   <text:p text:style-name="P2">FUTURO PHP 7.4</text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">funciones cortas</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://wiki.php.net/rfc/arrow_functions_v2" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.php.net/rfc/arrow_functions_v2</text:a></text:p>
+   <text:h text:style-name="P13" text:outline-level="1">tipos en atributos</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://wiki.php.net/rfc/typed_properties_v2" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.php.net/rfc/typed_properties_v2</text:a></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">preloading</text:h>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="https://wiki.php.net/rfc/preload" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.php.net/rfc/preload</text:a></text:p>
+   <text:p text:style-name="P9"/>
   </office:text>
  </office:body>
 </office:document>

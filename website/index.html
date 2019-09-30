@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-	<title>Soft Landing Page by Tooplate</title>
+	<title>Presentaci&oacute;n PHP - Ejemplos usados durante la presentaci&oacute;n</title>
 	<!--
 
     Template 2106 Soft Landing
@@ -80,6 +80,7 @@
                 			<li><a href="#modern-oop">PHP OOP moderno</a></li>
                 			<li><a href="#method-override">Sobre-escritura de m&eacute;todos</a></li>
                 			<li><a href="#types-system">Sistema de tipos</a></li>
+                			<li><a href="#finally">Finally en bloques try-catch</a></li>
                 		</ol>
                 	</div>
                 </div>
@@ -125,7 +126,7 @@
      <section id="types-system" data-stellar-background-ratio="0.5">
           <div class="container">
                <div class="row">
-               		<h2>Sobre-escritura de m&eacute;todos <small class="text-muted">PHP 5.0 en adelante</small></h2>
+               		<h2>Sistema de tipos <small class="text-muted">PHP 5.0 en adelante</small></h2>
                		<ul>
 	                    <li><a href="https://3v4l.org/PJkgY">Acceso al c&oacute;digo de ejemplo PHP 7.4</a></li>
 	                    <li><a href="https://3v4l.org/LSPcS">Acceso al c&oacute;digo de ejemplo PHP 7.2</a></li>
@@ -133,7 +134,40 @@
 	                    <li><a href="https://3v4l.org/12G8T">Acceso al c&oacute;digo de ejemplo PHP 7.0</a></li>
                 	</ul>
                     <p>
-                    	En adicci&oacute;n a la "Determinaci&oacute;n de tipos" introducida en PHP 5, se ha a&ntile;adido soporte gradualmente a usar tipos en otros entornos de PHP, como es el caso de <strong>PHP 7.4</strong>, con el soporte de tipos para miembros de clases; PHP 7.2, con el tipo "object" que engloba a todas las clases; PHP 7.1, con el soporte para nullables y retornos void; PHP 7.0 con soporte para tipar el retorno de funciones.
+                    	En adicci&oacute;n a la "Determinaci&oacute;n de tipos" introducida en PHP 5, se ha a&ntile;adido soporte gradualmente a usar tipos en otros entornos de PHP, como es el caso de <strong>PHP 7.4</strong>, con el soporte de tipos para miembros de clases; PHP 7.2, con el tipo "object" que engloba a todas las clases; PHP 7.1, con el soporte para nullables y retornos void; PHP 7.0 con soporte para tipar el retorno de funciones. Esto tambi&eacute;n ha llevado a la reserva de distintas palabras extra que podr&iacute;an ser usadas en el futuro: resource, mixed y numeric
+                    </p>
+               </div>
+          </div>
+     </section>
+
+
+     <!-- FINALLY -->
+     <section id="finally" data-stellar-background-ratio="0.5">
+          <div class="container">
+               <div class="row">
+               		<h2>Sistema de tipos <small class="text-muted">PHP 5.5 en adelante</small></h2>
+               		<ul>
+	                    <li><a href="https://3v4l.org/vOiP7">Acceso al c&oacute;digo de ejemplo</a></li>
+                	</ul>
+                    <p>
+                    	El soporte para los bloques finally fue introducido en PHP 5.5, permitiendo ejecutar un c&oacute;digo indistintamente si un try-catch ha detectado o no una excepci&oacute;n dentro del try. Esto es especialmente &uacute;til para cerrar ficheros, conexiones a base de datos, etc...
+                    </p>
+               </div>
+          </div>
+     </section>
+
+
+     <!-- FINALLY -->
+     <section id="operands" data-stellar-background-ratio="0.5">
+          <div class="container">
+               <div class="row">
+               		<h2>Sistema de tipos <small class="text-muted">PHP 5.6 en adelante</small></h2>
+               		<ul>
+	                    <li><a href="https://3v4l.org/0b3of">Acceso al c&oacute;digo de ejemplo PHP 5.6</a></li>
+	                    <li><a href="https://3v4l.org/VT4MW">Acceso al c&oacute;digo de ejemplo PHP 7.0</a></li>
+                	</ul>
+                    <p>
+                    	Se han añadido dos nuevos operadores conocidos como operador exponencial, que permite elevar un nuevo a otro y el operador de coalescencia nula, el cual toma la parte izquierda del operando, comprueba si existe y no es nula y devuelve su valor o devuelve el valor del lado derecho del mismo.
                     </p>
                </div>
           </div>

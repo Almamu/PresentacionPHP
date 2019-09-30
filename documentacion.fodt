@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2019-09-27T12:05:30.095652289</meta:creation-date><dc:date>2019-09-27T14:09:06.734199066</dc:date><meta:editing-duration>PT1H12M38S</meta:editing-duration><meta:editing-cycles>32</meta:editing-cycles><meta:generator>LibreOffice/6.2.7.1$Linux_X86_64 LibreOffice_project/20$Build-1</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="7" meta:paragraph-count="128" meta:word-count="312" meta:character-count="6794" meta:non-whitespace-character-count="6609"/></office:meta>
+ <office:meta><meta:creation-date>2019-09-27T12:05:30.095652289</meta:creation-date><dc:date>2019-09-27T14:09:06.734199066</dc:date><meta:editing-duration>PT1H12M38S</meta:editing-duration><meta:editing-cycles>32</meta:editing-cycles><meta:generator>LibreOffice/6.2.7.1$Linux_X86_64 LibreOffice_project/20$Build-1</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="7" meta:paragraph-count="128" meta:word-count="312" meta:character-count="6794"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">168063</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">114935</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">45960</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">21142</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">16429</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">174098</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">22906</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">130297</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">168063</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">114935</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">45958</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">189204</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">136075</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -72,7 +72,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">914477</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">930655</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
@@ -95,6 +95,15 @@
    <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">es</config:config-item>
+     <config:config-item config:name="Country" config:type="string">ES</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
    <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
@@ -285,46 +294,23 @@
   <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="000df42d" officeooo:paragraph-rsid="000df42d"/>
   </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="0009cffd"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="000dc419" officeooo:paragraph-rsid="000dc419"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="000df42d" officeooo:paragraph-rsid="000df42d"/>
+  </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="000ae0d5"/>
   </style:style>
   <style:style style:name="T2" style:family="text">
    <style:text-properties officeooo:rsid="000df42d"/>
   </style:style>
-  <text:list-style style:name="L1">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="0.771cm" text:min-label-width="0.499cm"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-number text:level="2" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="1.27cm" text:min-label-width="0.635cm"/>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="3" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="1.905cm" text:min-label-width="0.635cm"/>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="4" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="2.54cm" text:min-label-width="0.635cm"/>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="5" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="3.175cm" text:min-label-width="0.635cm"/>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="6" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="3.81cm" text:min-label-width="0.635cm"/>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="7" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="4.445cm" text:min-label-width="0.635cm"/>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="8" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="5.08cm" text:min-label-width="0.635cm"/>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="9" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="5.715cm" text:min-label-width="0.635cm"/>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="10" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="6.35cm" text:min-label-width="0.635cm"/>
-   </text:list-level-style-number>
-  </text:list-style>
   <style:page-layout style:name="pm1">
-   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm">
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style/>

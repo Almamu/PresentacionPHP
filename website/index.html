@@ -80,7 +80,9 @@
                 			<li><a href="#modern-oop">PHP OOP moderno</a></li>
                 			<li><a href="#method-override">Sobre-escritura de m&eacute;todos</a></li>
                 			<li><a href="#types-system">Sistema de tipos</a></li>
-                			<li><a href="#finally">Finally en bloques try-catch</a></li>
+                			<li><a href="#finally">Soporte finally en bloques try-catch</a></li>
+                      <li><a href="#operadores">Nuevos operadores</a></li>
+                      <li><a href="#constants">Soporte para constantes</a></li>
                 		</ol>
                 	</div>
                 </div>
@@ -145,7 +147,7 @@
      <section id="finally" data-stellar-background-ratio="0.5">
           <div class="container">
                <div class="row">
-               		<h2>Sistema de tipos <small class="text-muted">PHP 5.5 en adelante</small></h2>
+               		<h2>Soporte finally en try-catch <small class="text-muted">PHP 5.5 en adelante</small></h2>
                		<ul>
 	                    <li><a href="https://3v4l.org/vOiP7">Acceso al c&oacute;digo de ejemplo</a></li>
                 	</ul>
@@ -157,17 +159,50 @@
      </section>
 
 
-     <!-- FINALLY -->
+     <!-- OPERANDS -->
      <section id="operands" data-stellar-background-ratio="0.5">
           <div class="container">
                <div class="row">
-               		<h2>Sistema de tipos <small class="text-muted">PHP 5.6 en adelante</small></h2>
+               		<h2>Nuevos operadores <small class="text-muted">PHP 5.6 en adelante</small></h2>
                		<ul>
 	                    <li><a href="https://3v4l.org/0b3of">Acceso al c&oacute;digo de ejemplo PHP 5.6</a></li>
 	                    <li><a href="https://3v4l.org/VT4MW">Acceso al c&oacute;digo de ejemplo PHP 7.0</a></li>
                 	</ul>
                     <p>
                     	Se han añadido dos nuevos operadores conocidos como operador exponencial, que permite elevar un nuevo a otro y el operador de coalescencia nula, el cual toma la parte izquierda del operando, comprueba si existe y no es nula y devuelve su valor o devuelve el valor del lado derecho del mismo.
+                    </p>
+               </div>
+          </div>
+     </section>
+
+
+     <!-- CONSTANTS -->
+     <section id="constants" data-stellar-background-ratio="0.5">
+          <div class="container">
+               <div class="row">
+                  <h2>Soporte para constantes <small class="text-muted">PHP 5 en adelante</small></h2>
+                  <ul>
+                      <li><a href="https://3v4l.org/IbUnp">Acceso al c&oacute;digo de ejemplo 1</a></li>
+                      <li><a href="https://3v4l.org/9qZ5I">Acceso al c&oacute;digo de ejemplo 2</a></li>
+                  </ul>
+                    <p>
+                      Con la actualización del <a href="#modern-oop">oop moderno</a> se introdujeron las constantes. Estas fueron expandidas en subsiguientes versiones añadiendo soporte para su uso fuera de clases en PHP 5.3, uso de expresiones en PHP 5.6, uso de arrays en PHP 7.0 y modificadores de acceso en PHP 7.1.
+                    </p>
+               </div>
+          </div>
+     </section>
+
+
+     <!-- EXCEPTIONS -->
+     <section id="exceptions" data-stellar-background-ratio="0.5">
+          <div class="container">
+               <div class="row">
+                  <h2>Excepciones <small class="text-muted">PHP 5 en adelante</small></h2>
+                  <ul>
+                      <li><a href="https://3v4l.org/HbXcT">Captura de multiples excepciones</a></li>
+                  </ul>
+                    <p>
+                      Con la actualización del <a href="#modern-oop">oop moderno</a> se introdujeron las excepciones. Posteriormente en PHP 7.0 se introdujeron varias excepciones principales junto a una jerarqu&iacute;a para las mismas. A partir de PHP 7.1 se ha introducido tambi&eacute;n la opci&oacute;n de capturar m&aacute;s de una excepci&oacute;n en un mismo bloque catch, al estilo Java.
                     </p>
                </div>
           </div>

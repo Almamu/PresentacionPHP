@@ -77,6 +77,7 @@
                 	<div class="col-12">
                 		<h1>&Iacute;ndice</h1>
                 		<ol>
+                      <li><a href="#register-globals">register_globals</a></li>
                 			<li><a href="#modern-oop">PHP OOP moderno</a></li>
                 			<li><a href="#method-override">Sobre-escritura de m&eacute;todos</a></li>
                 			<li><a href="#types-system">Sistema de tipos</a></li>
@@ -88,6 +89,38 @@
                 		</ol>
                 	</div>
                 </div>
+          </div>
+     </section>
+
+
+     <!-- REGISTER_GLOBALS -->
+     <section id="register-globals" data-stellar-background-ratio="0.5">
+          <div class="container">
+               <div class="row">
+                  <h2>register_globals <small class="text-muted">PHP 5.3 en adelante</small></h2>
+                    <p>
+                      Hasta PHP 5.3 exist&iacute;a una opci&oacute;n a nivel de configuraci&oacute;n llamada "register_globals". Esta funci&oacute;n permit&iacute;a que PHP autom&aacute;ticamente creara variables globales basadas en los par&aacute;metros pasados por los m&eacute;todos GET y/o POST de HTTP. Esto genera un gran riesgo de seguridad ya que permite a un usuario malicioso re-emplazar variables que el programador haya declarado en sus scripts PHP. Por ejemplo:<br />
+                    </p>
+                    <pre>
+&lt;?php
+  if ($username == 'Alexis' && $password == 'hunter2')
+  {
+    $valid = true;
+  }
+
+  if ($valid == true)
+  {
+    echo 'Bienvenido ' . $username . '!';
+  }
+                    </pre>
+                    <p>
+                      Si a este, en principio, simple script lo llamaramos de la siguiente forma:<br />
+                      <strong>http://localhost/ejemplo.php?username=Mago&amp;password=ninguna</strong><br />
+                      no habr&iacute;a ning&uacute;n problema. La comprobaci&oacute;n de contraseña se realizar&iacute;a de forma correcta y no devolver&iacute;a nada. Sin embargo, si este script se llamara con un par&aacute;metro m&aacute;s, podr&iacute;amos saltarnos esta comprobaci&oacute;n: <br />
+                      <strong>http://localhost/ejemplo.php?username=Mago&amp;password=ninguna&amp;valid=1</strong><br />
+                      De esta forma el script anterior mostrar&iacute;a por pantalla "Bienvenido Mago".
+                    </p>
+               </div>
           </div>
      </section>
 
@@ -216,7 +249,7 @@
           <div class="container">
                <div class="row">
                   <h2>&iquest;Qu&eacute; le depara el futuro a PHP?</h2>
-                  <h4>Uni&oacute;n de tipos en par&aacute;metros</h4>
+                  <h3>Uni&oacute;n de tipos en par&aacute;metros</h3>
                     <p>
                       Propuesto por <strong>Nikita</strong><br />
                       Ha sido propuesto como una extensi&oacute;n al soporte de tipos de PHP, para permitir que una funci&oacute;n pueda recibir un mismo par&aacute;metro de distintos tipos. Por ejemplo:
@@ -232,12 +265,12 @@
                       La salida ser&iacute;a:
                       <pre>10</pre>
                     </p>
-                    <h4>Forzar declaraci&oacute;n antes del uso de variables</h4>
+                    <h3>Forzar declaraci&oacute;n antes del uso de variables</h3>
                     <p>
                       Propuesto por <strong>Sara Golemon y Andreas Braun</strong><br />
                       El objetivo de esta propuesta es forzar que las variables sean declaradas antes de su primer uso, generando un error fatal en caso de que esta regla no se siga. De esta forma se evitar&iacute;n situaciones de resultados inconsistentes al usar variables no declaradas.
                     </p>
-                    <h4>Soporte para anotaciones al estilo java</h4>
+                    <h3>Soporte para anotaciones al estilo java</h3>
                     <p>
                       Propuesto por <strong>Michał Brzuchalski</strong><br />
                       Esta propuesta permitir&iacute;a generar y leer anotaciones sobre funciones, permitiendo acceso m&aacute;s r&aacute;pido y sencillo a atributos, especialmente &uacute;til para sistemas como Doctrine que hacen un extensivo uso de estas para especificar como una clase se enlaza con una tabla. Actualmente se utilizan comentarios que se han de interpretar de forma manual, lo cual los hace realmente lentos en comparaci&oacute;n al uso de anotaciones, las cuales format&iacute;n parte del lenguaje y estar&iacute;n integradas en el int&eacute;rprete de PHP.<br />

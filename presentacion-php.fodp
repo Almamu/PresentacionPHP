@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:creation-date>2019-09-27T11:59:46.789954578</meta:creation-date><meta:editing-duration>P1DT12H37M39S</meta:editing-duration><meta:editing-cycles>56</meta:editing-cycles><meta:generator>LibreOffice/6.2.7.1$Linux_X86_64 LibreOffice_project/20$Build-1</meta:generator><dc:title>Focus</dc:title><dc:date>2019-10-02T01:25:37.200563477</dc:date><meta:document-statistic meta:object-count="147"/></office:meta>
+ <office:meta><meta:creation-date>2019-09-27T11:59:46.789954578</meta:creation-date><meta:editing-duration>P1DT12H44M23S</meta:editing-duration><meta:editing-cycles>58</meta:editing-cycles><meta:generator>LibreOffice/6.2.7.1$Linux_X86_64 LibreOffice_project/20$Build-1</meta:generator><dc:title>Focus</dc:title><dc:date>2019-10-02T01:32:22.728536849</dc:date><meta:document-statistic meta:object-count="152"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-327</config:config-item>
@@ -29,7 +29,7 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">17</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">6</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
@@ -8600,6 +8600,9 @@
        <text:list-item>
         <text:p>Cualquiera lo puede aprender</text:p>
        </text:list-item>
+       <text:list-item>
+        <text:p>register_globals</text:p>
+       </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
@@ -8646,6 +8649,44 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr15" draw:layer="layout" svg:width="24.108cm" svg:height="3.333cm" svg:x="1.946cm" svg:y="1.239cm" presentation:class="title">
      <draw:text-box>
+      <text:p>register_globals</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr17" draw:layer="layout" svg:width="24.108cm" svg:height="12.37cm" svg:x="1.946cm" svg:y="5.114cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L3">
+       <text:list-item>
+        <text:p>Deprecado en PHP 5.3</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p>Eliminado en PHP 5.4</text:p>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr10" draw:text-style-name="P25" draw:layer="layout" svg:width="2.348cm" svg:height="0.988cm" svg:x="24.652cm" svg:y="0.6cm">
+     <draw:text-box>
+      <text:p>PHP 5</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp2">
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="7" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr18" draw:text-style-name="P24" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes" presentation:user-transformed="true">
+      <draw:text-box>
+       <text:p>Determinacion de tipos es el nombre que se le dio en PHP 5</text:p>
+       <text:p/>
+       <text:p>PHP 5.0 solo clases</text:p>
+       <text:p>PHP 5.1 añadido tipo array</text:p>
+       <text:p>PHP 5.4 añadidio tipo callable</text:p>
+       <text:p>PHP 7.0 añadidos escalares (int, string, bool, float)</text:p>
+      </draw:text-box>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page8" draw:style-name="dp3" draw:master-page-name="Focus3" presentation:presentation-page-layout-name="AL1T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr15" draw:layer="layout" svg:width="24.108cm" svg:height="3.333cm" svg:x="1.946cm" svg:y="1.239cm" presentation:class="title">
+     <draw:text-box>
       <text:p>PHP OOP moderno</text:p>
      </draw:text-box>
     </draw:frame>
@@ -8677,8 +8718,9 @@
       <text:p>PHP 5</text:p>
      </draw:text-box>
     </draw:frame>
-    <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="7" presentation:class="page"/>
+    <presentation:notes draw:style-name="dp4">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="8" presentation:class="page"/>
      <draw:frame presentation:style-name="pr18" draw:text-style-name="P24" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes" presentation:user-transformed="true">
       <draw:text-box>
        <text:p>Determinacion de tipos es el nombre que se le dio en PHP 5</text:p>
@@ -8691,7 +8733,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page8" draw:style-name="dp3" draw:master-page-name="Focus3" presentation:presentation-page-layout-name="AL1T1">
+   <draw:page draw:name="page9" draw:style-name="dp3" draw:master-page-name="Focus3" presentation:presentation-page-layout-name="AL1T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr15" draw:layer="layout" svg:width="24.108cm" svg:height="3.333cm" svg:x="1.946cm" svg:y="1.239cm" presentation:class="title">
      <draw:text-box>
@@ -8715,7 +8757,7 @@
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
      <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="8" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="9" presentation:class="page"/>
      <draw:frame presentation:style-name="pr18" draw:text-style-name="P24" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes">
       <draw:text-box>
        <text:p>Contra-varianza es pasar de un tipo más restrictivo a uno menos restrictivo (es decir, de tener tipo a no tenerlo)</text:p>
@@ -8723,7 +8765,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page9" draw:style-name="dp3" draw:master-page-name="Focus3" presentation:presentation-page-layout-name="AL1T1">
+   <draw:page draw:name="page10" draw:style-name="dp3" draw:master-page-name="Focus3" presentation:presentation-page-layout-name="AL1T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr15" draw:layer="layout" svg:width="24.108cm" svg:height="3.333cm" svg:x="1.946cm" svg:y="1.239cm" presentation:class="title">
      <draw:text-box>
@@ -8760,7 +8802,7 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="9" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="10" presentation:class="page"/>
      <draw:frame presentation:style-name="pr18" draw:text-style-name="P24" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes">
       <draw:text-box>
        <text:p>Contra-varianza es pasar de un tipo más restrictivo a uno menos restrictivo (es decir, de tener tipo a no tenerlo)</text:p>
@@ -8768,7 +8810,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page10" draw:style-name="dp3" draw:master-page-name="Focus3" presentation:presentation-page-layout-name="AL1T1">
+   <draw:page draw:name="page11" draw:style-name="dp3" draw:master-page-name="Focus3" presentation:presentation-page-layout-name="AL1T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr15" draw:layer="layout" svg:width="24.108cm" svg:height="3.333cm" svg:x="1.946cm" svg:y="1.239cm" presentation:class="title">
      <draw:text-box>
@@ -8786,7 +8828,7 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="10" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="11" presentation:class="page"/>
      <draw:frame presentation:style-name="pr18" draw:text-style-name="P24" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes">
       <draw:text-box>
        <text:p>Contra-varianza es pasar de un tipo más restrictivo a uno menos restrictivo (es decir, de tener tipo a no tenerlo)</text:p>
@@ -8794,7 +8836,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page11" draw:style-name="dp3" draw:master-page-name="Focus3" presentation:presentation-page-layout-name="AL1T1">
+   <draw:page draw:name="page12" draw:style-name="dp3" draw:master-page-name="Focus3" presentation:presentation-page-layout-name="AL1T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr15" draw:layer="layout" svg:width="24.108cm" svg:height="3.333cm" svg:x="1.946cm" svg:y="1.239cm" presentation:class="title">
      <draw:text-box>
@@ -8819,7 +8861,7 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="11" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="12" presentation:class="page"/>
      <draw:frame presentation:style-name="pr18" draw:text-style-name="P24" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes">
       <draw:text-box>
        <text:p>Contra-varianza es pasar de un tipo más restrictivo a uno menos restrictivo (es decir, de tener tipo a no tenerlo)</text:p>
@@ -8827,7 +8869,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page12" draw:style-name="dp3" draw:master-page-name="Focus3" presentation:presentation-page-layout-name="AL1T1">
+   <draw:page draw:name="page13" draw:style-name="dp3" draw:master-page-name="Focus3" presentation:presentation-page-layout-name="AL1T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr15" draw:layer="layout" svg:width="24.108cm" svg:height="3.333cm" svg:x="1.946cm" svg:y="1.239cm" presentation:class="title">
      <draw:text-box>
@@ -8856,7 +8898,7 @@
     </draw:frame>
     <presentation:notes draw:style-name="dp4">
      <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="12" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="13" presentation:class="page"/>
      <draw:frame presentation:style-name="pr18" draw:text-style-name="P24" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes">
       <draw:text-box>
        <text:p>Contra-varianza es pasar de un tipo más restrictivo a uno menos restrictivo (es decir, de tener tipo a no tenerlo)</text:p>
@@ -8864,7 +8906,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page13" draw:style-name="dp3" draw:master-page-name="Focus3" presentation:presentation-page-layout-name="AL1T1">
+   <draw:page draw:name="page14" draw:style-name="dp3" draw:master-page-name="Focus3" presentation:presentation-page-layout-name="AL1T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr15" draw:layer="layout" svg:width="24.108cm" svg:height="3.333cm" svg:x="1.946cm" svg:y="1.239cm" presentation:class="title">
      <draw:text-box>
@@ -8890,32 +8932,6 @@
     </draw:frame>
     <presentation:notes draw:style-name="dp4">
      <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="13" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr18" draw:text-style-name="P24" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes">
-      <draw:text-box>
-       <text:p>Contra-varianza es pasar de un tipo más restrictivo a uno menos restrictivo (es decir, de tener tipo a no tenerlo)</text:p>
-      </draw:text-box>
-     </draw:frame>
-    </presentation:notes>
-   </draw:page>
-   <draw:page draw:name="page14" draw:style-name="dp3" draw:master-page-name="Focus3" presentation:presentation-page-layout-name="AL1T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr15" draw:layer="layout" svg:width="24.108cm" svg:height="3.333cm" svg:x="1.946cm" svg:y="1.239cm" presentation:class="title">
-     <draw:text-box>
-      <text:p>¿Qué le depara el futuro?</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame presentation:style-name="pr20" draw:text-style-name="P26" draw:layer="layout" svg:width="24.108cm" svg:height="12.37cm" svg:x="1.946cm" svg:y="5.114cm" presentation:class="outline" presentation:user-transformed="true">
-     <draw:text-box>
-      <text:list text:style-name="L3">
-       <text:list-item>
-        <text:p text:style-name="P26"><text:span text:style-name="T8">Unión de tipos en parámetros</text:span></text:p>
-       </text:list-item>
-      </text:list>
-     </draw:text-box>
-    </draw:frame>
-    <presentation:notes draw:style-name="dp4">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="14" presentation:class="page"/>
      <draw:frame presentation:style-name="pr18" draw:text-style-name="P24" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes">
       <draw:text-box>
@@ -8936,9 +8952,6 @@
       <text:list text:style-name="L3">
        <text:list-item>
         <text:p text:style-name="P26"><text:span text:style-name="T8">Unión de tipos en parámetros</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P26"><text:span text:style-name="T8">Forzar declaración de variables antes </text:span><text:span text:style-name="T8">de usarlas</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -8969,9 +8982,6 @@
        <text:list-item>
         <text:p text:style-name="P26"><text:span text:style-name="T8">Forzar declaración de variables antes </text:span><text:span text:style-name="T8">de usarlas</text:span></text:p>
        </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P26"><text:span text:style-name="T8">Soporte para anotaciones</text:span></text:p>
-       </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
@@ -8986,6 +8996,38 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page17" draw:style-name="dp3" draw:master-page-name="Focus3" presentation:presentation-page-layout-name="AL1T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr15" draw:layer="layout" svg:width="24.108cm" svg:height="3.333cm" svg:x="1.946cm" svg:y="1.239cm" presentation:class="title">
+     <draw:text-box>
+      <text:p>¿Qué le depara el futuro?</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr20" draw:text-style-name="P26" draw:layer="layout" svg:width="24.108cm" svg:height="12.37cm" svg:x="1.946cm" svg:y="5.114cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L3">
+       <text:list-item>
+        <text:p text:style-name="P26"><text:span text:style-name="T8">Unión de tipos en parámetros</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P26"><text:span text:style-name="T8">Forzar declaración de variables antes </text:span><text:span text:style-name="T8">de usarlas</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P26"><text:span text:style-name="T8">Soporte para anotaciones</text:span></text:p>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp4">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="17" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr18" draw:text-style-name="P24" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes">
+      <draw:text-box>
+       <text:p>Contra-varianza es pasar de un tipo más restrictivo a uno menos restrictivo (es decir, de tener tipo a no tenerlo)</text:p>
+      </draw:text-box>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page18" draw:style-name="dp3" draw:master-page-name="Focus3" presentation:presentation-page-layout-name="AL1T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr15" draw:layer="layout" svg:width="24.108cm" svg:height="3.333cm" svg:x="1.946cm" svg:y="1.239cm" presentation:class="title">
      <draw:text-box>
@@ -15169,7 +15211,7 @@
     </draw:frame>
     <presentation:notes draw:style-name="dp4">
      <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="17" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="18" presentation:class="page"/>
      <draw:frame presentation:style-name="pr18" draw:text-style-name="P24" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes">
       <draw:text-box>
        <text:p>Contra-varianza es pasar de un tipo más restrictivo a uno menos restrictivo (es decir, de tener tipo a no tenerlo)</text:p>
@@ -15177,7 +15219,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page18" draw:style-name="dp3" draw:master-page-name="Focus3" presentation:presentation-page-layout-name="AL1T1">
+   <draw:page draw:name="page19" draw:style-name="dp3" draw:master-page-name="Focus3" presentation:presentation-page-layout-name="AL1T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr15" draw:layer="layout" svg:width="24.108cm" svg:height="3.333cm" svg:x="1.946cm" svg:y="1.239cm" presentation:class="title">
      <draw:text-box>
@@ -15192,7 +15234,7 @@
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
      <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="18" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="19" presentation:class="page"/>
      <draw:frame presentation:style-name="pr18" draw:text-style-name="P24" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>

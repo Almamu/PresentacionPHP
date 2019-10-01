@@ -83,6 +83,8 @@
                 			<li><a href="#finally">Soporte finally en bloques try-catch</a></li>
                       <li><a href="#operadores">Nuevos operadores</a></li>
                       <li><a href="#constants">Soporte para constantes</a></li>
+                      <li><a href="#exceptions">Excepciones</a></li>
+                      <li><a href="#future">Futuro de PHP</a></li>
                 		</ol>
                 	</div>
                 </div>
@@ -203,6 +205,78 @@
                   </ul>
                     <p>
                       Con la actualización del <a href="#modern-oop">oop moderno</a> se introdujeron las excepciones. Posteriormente en PHP 7.0 se introdujeron varias excepciones principales junto a una jerarqu&iacute;a para las mismas. A partir de PHP 7.1 se ha introducido tambi&eacute;n la opci&oacute;n de capturar m&aacute;s de una excepci&oacute;n en un mismo bloque catch, al estilo Java.
+                    </p>
+               </div>
+          </div>
+     </section>
+
+
+     <!-- EXCEPTIONS -->
+     <section id="future" data-stellar-background-ratio="0.5">
+          <div class="container">
+               <div class="row">
+                  <h2>&iquest;Qu&eacute; le depara el futuro a PHP?</h2>
+                  <h4>Uni&oacute;n de tipos en par&aacute;metros</h4>
+                    <p>
+                      Propuesto por <strong>Nikita</strong><br />
+                      Ha sido propuesto como una extensi&oacute;n al soporte de tipos de PHP, para permitir que una funci&oacute;n pueda recibir un mismo par&aacute;metro de distintos tipos. Por ejemplo:
+                      <pre>
+&lt;?php
+  function suma (int|float $numero1, int|float $numero2)
+  {
+    return $numero1 + $numero2;
+  }
+
+  echo suma (5, 5);
+                      </pre>
+                      La salida ser&iacute;a:
+                      <pre>10</pre>
+                    </p>
+                    <h4>Forzar declaraci&oacute;n antes del uso de variables</h4>
+                    <p>
+                      Propuesto por <strong>Sara Golemon y Andreas Braun</strong><br />
+                      El objetivo de esta propuesta es forzar que las variables sean declaradas antes de su primer uso, generando un error fatal en caso de que esta regla no se siga. De esta forma se evitar&iacute;n situaciones de resultados inconsistentes al usar variables no declaradas.
+                    </p>
+                    <h4>Soporte para anotaciones al estilo java</h4>
+                    <p>
+                      Propuesto por <strong>Michał Brzuchalski</strong><br />
+                      Esta propuesta permitir&iacute;a generar y leer anotaciones sobre funciones, permitiendo acceso m&aacute;s r&aacute;pido y sencillo a atributos, especialmente &uacute;til para sistemas como Doctrine que hacen un extensivo uso de estas para especificar como una clase se enlaza con una tabla. Actualmente se utilizan comentarios que se han de interpretar de forma manual, lo cual los hace realmente lentos en comparaci&oacute;n al uso de anotaciones, las cuales format&iacute;n parte del lenguaje y estar&iacute;n integradas en el int&eacute;rprete de PHP.<br />
+                      <strong>Situaci&oacute;n actual: </strong>
+                      <pre>
+&lt;?php
+  use ORM\Entity;
+  use ORM\Id;
+  use ORM\Column;
+   
+  /**
+   * @Entity
+   * @Table ("foo")
+   */
+  class Foo
+  {
+      /**
+       * @Id
+       * @Column ("id", "uuid")
+       */
+      private $id;
+  }
+                      </pre>
+                      <strong>Uso propuesto: </strong>
+                      <pre>
+&lt;?php
+  use ORM\Entity;
+  use ORM\Id;
+  use ORM\Column;
+   
+  [@Entity]
+  [@Table("foo")]
+  class Foo
+  {
+      [@Id]
+      [@Column("id", "uuid")]
+      private $id;
+  }
+                      </pre>
                     </p>
                </div>
           </div>
